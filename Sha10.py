@@ -1,6 +1,6 @@
-num5 = int(input())
-count1 = 0
-while(num5 > 0):
-  count1=count1+1
-  num5=num5/10
-print(count1)
+num10 = int(input())
+count2 = 0
+while(num10 > 0):
+  count2=count2+1
+  num10=num10/10
+print(count2)
