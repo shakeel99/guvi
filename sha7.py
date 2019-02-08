@@ -1,1 +1,3 @@
-print('Hai, sha!')
+N = int(raw_input())
+for i in xrange(N):
+    print('hello, sha!')
